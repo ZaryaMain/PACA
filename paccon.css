@@ -78,7 +78,7 @@ padding: 20px;
 font-size: 110%; 
 color: #ffffff ;
 font-family: "Calibri";
- 
+ height: 75% ;
 }
 
 h1 {
@@ -160,4 +160,7 @@ border-radius: 5px;
 color: #ffffff;
 
 
+}
+a:visited {
+    color: #1eb0ff;
 }
