@@ -110,7 +110,11 @@ transform: translateY(-50%)
 
 }
 
-.sideright {
+h4 {
+font-size: 500% ;
+color: #ffffff ;
+
+ {
 	
 background-color: #b2b2b2;
 margin-left: 10px;
@@ -154,7 +158,7 @@ transition: opacity 1s ease-out-in;
 #footer {
 background-color: #000000;
 margin: 10px;
-height: 50%;
+
 clear: both;
 border-radius: 5px;
 color: #ffffff;
